@@ -1,22 +1,15 @@
 #include<stdio.h>
 int main()
 {
-	int n,i,m;
+	int i,n,m;
 
-	printf("Enter the number : ");
-	scanf("%d",&n);
-	if(n<0)
+	//n=10%2==0;
+	i=0;
+	while(i<=10)
 	{
-		printf("Invalid Input!!");
-	}
 
-	for(i=0;i<=n;i++)
-	{
-		if(i%2==0)
-		{
-			printf("%d ",i);
-		}
-		
+		printf("%d is even number :\n ",i);
+		i++;
 	}
 	return 0;
 }
