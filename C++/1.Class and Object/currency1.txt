@@ -1,0 +1,21 @@
+Currency Conversion: RS to USD/YUAN/EURO/POUND
+choose the option :u
+enter amount in rupees:324
+3.888|1.78826e-307|2.07465e-317|5.11916e+033
+Currency Conversion: RS to USD/YUAN/EURO/POUND
+choose the option :u
+enter amount in rupees:324
+amount in usd :3.888
+amount in euro :1.78826e-307
+Currency Conversion: RS to USD/YUAN/EURO/POUND
+choose the option :u
+enter amount in rupees:344
+amount in usd :4.128
+amount in euro :1.78826e-307
+Currency Conversion: RS to USD/YUAN/EURO/POUND
+choose the option :u
+enter amount in rupees:3441
+amount in usd :41.292
+amount in euro :1.78826e-307
+amount in pound :2.07465e-317
+amount in yuan :5.11916e+033
